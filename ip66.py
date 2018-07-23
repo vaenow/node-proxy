@@ -31,7 +31,7 @@ def verifyProxyList():
         'Accept-Encoding': 'gzip',
         'Cookie': '5MVv=x5Nbz347Mbic01ycV1M6z12939Mb810az6y0kbO4+dh7s3x1'
     }
-    myurl = 'http://krypton-api.firewinggames.com/api/refresh/user'
+    myurl = 'http://hots:port/path'
 
     while True:
         ll = inFile.readline().strip()
